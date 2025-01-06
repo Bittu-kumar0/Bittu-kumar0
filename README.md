@@ -1,6 +1,4 @@
-//[![MasterHead](https://t4.ftcdn.net/jpg/02/66/07/83/360_F_266078398_vXlKFR2KDOj8bpsly1lduNbvaDrZGMY2.jpg)]
 <img align="" alt="" width="1600px" height="480px" margin="134px 0 134px 0" src="https://t4.ftcdn.net/jpg/02/66/07/83/360_F_266078398_vXlKFR2KDOj8bpsly1lduNbvaDrZGMY2.jpg">
-
 
 <h1 align="center">Hi 👋, I'm Bittu kumar</h1>
 <h3 align="center">A passionate web developer from India</h3>
