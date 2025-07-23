@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@bittukumar89765" target="blank"><img src="https://img.shields.io/twitter/follow/@bittukumar89765?logo=twitter&style=for-the-badge" alt="@bittukumar89765" /></a> </p>
 
--🌱 I’m currently learning **MERN stack**
+--🌱 I’m currently learning **MERN stack**
 
 -💬 Ask me about **MERN stack**
 
