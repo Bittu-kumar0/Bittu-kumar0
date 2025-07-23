@@ -1,24 +1,24 @@
 
 <h1 align="center">Hi 👋, I'm Bittu kumar</h1>
-<h3 align="center">A passionate Software developer from Indi</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bittu-kumar0&label=Profile%20views&color=0e75b6&style=flat" alt="bittu-kumar0" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@bittukumar89765" target="blank"><img src="https://img.shields.io/twitter/follow/@bittukumar89765?logo=twitter&style=for-the-badge" alt="@bittukumar89765" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **MERN stack**
+💬 Ask me about **MERN stack**
 
-- 📫 How to reach me **bittukumarsing2244@gmail.com**
+📫 How to reach me **bittukumarsing2244@gmail.com**
     
-- - 🖥️ Portfolio: Coming soon!
+ 🖥️ Portfolio: Coming soon!
 
-- ### 🏆 Achievements
+ ### 🏆 Achievements
 
-- 🚀 Participated in the **Smart India Hackathon 2024** (Internal) at DRIEMS University  
-- 🛠️ Participated at **25th ISTE State Level Convention** by Balasore College of Engineering  
+🚀 Participated in the **Smart India Hackathon 2024** (Internal) at DRIEMS University  
+🛠️ Participated at **25th ISTE State Level Convention** by Balasore College of Engineering  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
