@@ -7,18 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/@bittukumar89765" target="blank"><img src="https://img.shields.io/twitter/follow/@bittukumar89765?logo=twitter&style=for-the-badge" alt="@bittukumar89765" /></a> </p>
 
-🌱 I’m currently learning **MERN stack**
+-🌱 I’m currently learning **MERN stack**
 
-💬 Ask me about **MERN stack**
+-💬 Ask me about **MERN stack**
 
-📫 How to reach me **bittukumarsing2244@gmail.com**
+-📫 How to reach me **bittukumarsing2244@gmail.com**
     
- 🖥️ Portfolio: Coming soon!
+ -🖥️ Portfolio: Coming soon!
 
- ### 🏆 Achievements
+- ### 🏆 Achievements
 
-🚀 Participated in the **Smart India Hackathon 2024** (Internal) at DRIEMS University  
-🛠️ Participated at **25th ISTE State Level Convention** by Balasore College of Engineering  
+-🚀 Participated in the **Smart India Hackathon 2024** (Internal) at DRIEMS University  
+-🛠️ Participated at **25th ISTE State Level Convention** by Balasore College of Engineering  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
